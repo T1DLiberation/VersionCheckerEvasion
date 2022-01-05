@@ -1,7 +1,7 @@
 [
  {"minAndroid":1,"maxAndroid":23}
- ,{"minAndroid":24,"maxAndroid":25,"supported":"2.6.2"}
- ,{"minAndroid":26,"maxAndroid":27,"supported":"2.6.2"}
- ,{"minAndroid":28,"maxAndroid":99,"supported":"2.6.2"}
- ,{"endDate":"2019-11-24","version":"2.6.2-dev"}
+ ,{"minAndroid":24,"maxAndroid":25,"supported":"2.6.1"}
+ ,{"minAndroid":26,"maxAndroid":27,"supported":"2.6.1"}
+ ,{"minAndroid":28,"maxAndroid":99,"supported":"2.6.1"}
+ ,{"endDate":"2019-11-24","version":"2.6.1-dev"}
 ]
